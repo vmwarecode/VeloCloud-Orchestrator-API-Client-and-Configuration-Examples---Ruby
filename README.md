@@ -1,1 +1,0 @@
-# VeloCloud-Orchestrator-API-Client-and-Configuration-Examples---Ruby
